@@ -1,0 +1,5 @@
+## 学生表
+表名：student；字段名：student_id, name；字段信息：学生编号, 学生姓名
+
+## 学生分数表 
+表名：student_score；字段名：student_id, subject, score；字段信息：学生编号, 科目，分数
